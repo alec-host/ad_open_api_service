@@ -1,0 +1,1 @@
+EXAMPLE = {"username":"string","password":"string"}
